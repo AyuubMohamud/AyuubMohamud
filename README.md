@@ -1,1 +1,1 @@
-Interested in Hardware Design, CPU microarchitecture, Compilers
+Interested in Hardware Design, CPU microarchitecture
